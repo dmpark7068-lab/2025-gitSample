@@ -1,6 +1,10 @@
 team: Tigers
 
+<<<<<<< HEAD
 manager: Kennth
+=======
+manager: Debors
+>>>>>>> conflict-1
 
 members:
 - Linda
